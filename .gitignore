@@ -1,0 +1,6 @@
+assets/IMAGE*
+*.ipynb
+__pycache__
+*.md
+!readme.md
+headers.json
