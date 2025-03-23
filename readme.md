@@ -1,6 +1,6 @@
 # bili-note-md
 
-把哔哩哔哩视频的笔记导出为markdown格式。
+把哔哩哔哩视频的笔记导出为markdown文件。
 
 > [!TIP]  
 > 本项目需要使用Python 3.10.5+，更老的版本没测试过。需要在环境中安装好`requests`：
